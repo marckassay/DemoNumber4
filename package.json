@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "cordova": "^8.0.0",
     "ionic": "^3.9.2"
   },
   "devDependencies": {},

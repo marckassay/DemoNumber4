@@ -1,0 +1,1 @@
+E:/temp/testI/npm-ps-exec

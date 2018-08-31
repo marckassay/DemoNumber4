@@ -1,1 +1,1 @@
-E:/temp/testI/npm-ps-exec
+E:/temp/testI/scripts/npm-exec.ps1
